@@ -120,9 +120,9 @@ a:hover {
 }
 
 .sidebar img {
-  border: 8px solid #FFA800;
+  border: 4px solid #FFA800;
   width: 50%;
-  border-radius: 50%;
+  border-radius: 22%;
   max-width: 250px;
   margin: 50px auto;
   display: inline-block;
@@ -185,7 +185,7 @@ a:hover {
   color: #FFA800;
 }
 
-#bio-education, #education, #work {
+#bio, #education, #work {
   background-color: #D48C00;
 }
 
@@ -198,12 +198,12 @@ a:hover {
 #bio {
   float: left;
   width: 54%;
-  margin-right: 3%;
+  margin-right: 2%;
 }
 
 #education {
   float: left;
-  width: 43%
+  width: 44%
 }
 
 #footer {
