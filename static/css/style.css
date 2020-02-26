@@ -64,7 +64,7 @@ html, html a {
 }
 
 body {
-  background-color: #FFA800;
+  background-color: #EE5A00;
   color: #2C2C2C;
   font-family: 'Lato', sans-serif;
   font-size: 20px;
@@ -100,7 +100,7 @@ p {
 }
 
 a {
-  color: #FFA800;
+  color: #EE5A00;
   text-decoration: none;
 }
 
@@ -110,7 +110,7 @@ a:hover {
 
 .sidebar {
   background-color: #2C2C2C;
-  color: #FFA800;
+  color: #EE5A00;
   position: fixed;
   top: 0;
   bottom: 0;
@@ -120,16 +120,16 @@ a:hover {
 }
 
 .sidebar img {
-  border: 4px solid #FFA800;
+  border: 4px solid #EE5A00;
   width: 50%;
-  border-radius: 22%;
+  border-radius: 15%;
   max-width: 250px;
   margin: 50px auto;
   display: inline-block;
 }
 
 .sidebar h3 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Space Mono', sans-serif;
   font-weight: 300;
 }
 
@@ -182,11 +182,11 @@ a:hover {
 
 #about-me, #skills {
   background-color: #2C2C2C;
-  color: #FFA800;
+  color: #EE5A00;
 }
 
 #bio, #education, #work {
-  background-color: #D48C00;
+  background-color: rgba(200,200,200,0.5);
 }
 
 #bio-education::after {
